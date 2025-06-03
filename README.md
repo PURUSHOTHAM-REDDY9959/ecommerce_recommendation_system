@@ -30,7 +30,13 @@ The system depends on meaningful and consistent product descriptions to function
   - A **heatmap** showing similarity scores among the top 10 products.
   - **Bar charts** for top recommendations of each selected product.
 
----
+# Folder Structures :
+
+├── ecommerce_recommendation_system.py
+├── data/
+│   └── products.csv
+└── README.md
+
 
 ## How It Works
 
@@ -44,7 +50,7 @@ The system depends on meaningful and consistent product descriptions to function
    - A similarity heatmap compares top products.
    - Recommendation scores are shown in horizontal bar plots.
 
----
+
 
 ## How to Run
 1. Load the data set 'products.cssv'
