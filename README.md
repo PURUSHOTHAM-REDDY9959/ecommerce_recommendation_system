@@ -8,6 +8,8 @@ This project is a **content-based recommendation system** for e-commerce product
 
 The goal of this system is to help users discover relevant products that match their interests by analyzing the product descriptions and calculating the similarity between them. This method is particularly useful when user interaction data is limited or unavailable.
 
+This project demonstrates how simple yet powerful natural language processing techniques can be applied to build a recommendation engine for products. By analyzing product descriptions, we can derive meaningful relationships between items and offer users relevant suggestions. This system lays the groundwork for more advanced models and applications in both academic and commercial setting
+
 
 
 ## Dataset Description
