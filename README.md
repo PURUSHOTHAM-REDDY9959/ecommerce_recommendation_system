@@ -33,8 +33,13 @@ The system depends on meaningful and consistent product descriptions to function
 # Folder Structures :
 
 ├── ecommerce_recommendation_system.py
+
 ├── data/
-│   └── products.csv
+
+      └── products.csv
+
+├──  Outputs
+
 └── README.md
 
 
