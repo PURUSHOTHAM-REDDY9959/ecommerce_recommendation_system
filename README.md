@@ -75,4 +75,10 @@ Top 5 recommendations for 'Wireless Mouse':
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/c8d44a7f-844c-4e9a-88c3-05b9227f0de9)
+![Image](https://github.com/user-attachments/assets/bd8d17fb-2bb6-4733-8526-61d73536397c)
+![Image](https://github.com/user-attachments/assets/b6cd00b6-a821-44d7-948d-a9129de633cf)
+![Image](https://github.com/user-attachments/assets/434d0602-0ac7-4036-b82a-06136ec8012f)
+![Image](https://github.com/user-attachments/assets/a83ae3ae-cd26-48a5-9cfd-6ae04258c323)
+
 
