@@ -2,7 +2,7 @@
 
 # E-Commerce Product Recommendation System
 
-## Overview
+## Description :
 
 This project is a **content-based recommendation system** for e-commerce products. It was developed as part of an internship project at **Next24tech Technology & Services** to demonstrate the use of natural language processing (NLP), machine learning, and data visualization to enhance the product recommendation experience. The system reads product data from a CSV file and uses the **TF-IDF (Term Frequency-Inverse Document Frequency)** vectorization technique along with **cosine similarity** to recommend similar products based on their textual descriptions.
 
